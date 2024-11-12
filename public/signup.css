@@ -1,0 +1,46 @@
+.backgroundColor{
+    background-color: #f15483;
+}
+
+.signUpMainDiv{
+    padding: auto;
+    margin: auto;
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 450px;
+}
+
+.signUpDiv2{
+    padding: 25px;
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 425px;
+}
+
+.mainHeading{
+    font-size: 24px;
+    text-align: center;
+}
+
+.inputfields{
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    height: 35px;
+}
+
+.button{
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid #1878b9;
+    background-color: #1878b9;
+    color: white;
+    font-weight: bold;
+    height: 40px;
+}
