@@ -1,11 +1,11 @@
 var firebaseConfig = {
-    apiKey: "AIzaSyDMqhIkck_xWr-fcZ3_vgDVpucM9KHOHI8",
-    authDomain: "dartbyiqra-c33b6.firebaseapp.com",
-    databaseURL: "https://dartbyiqra-c33b6-default-rtdb.firebaseio.com",
-    projectId: "dartbyiqra-c33b6",
-    storageBucket: "dartbyiqra-c33b6.firebasestorage.app",
-    messagingSenderId: "831096206029",
-    appId: "1:831096206029:web:a195936c52bc753b30ef84"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: ""
 };
   
 var app = firebase.initializeApp(firebaseConfig);
